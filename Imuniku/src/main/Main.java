@@ -1,4 +1,4 @@
-package main;
+package Imuniku.src.main;
 
 public class Main {
 
