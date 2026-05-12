@@ -1,8 +1,8 @@
 package Imuniku.src.dao;
 
-import driver.DatabaseConnection;
-import mapper.IbuMapper;
-import model.Ibu;
+import Imuniku.src.driver.DatabaseConnection;
+import Imuniku.src.mapper.IbuMapper;
+import Imuniku.src.model.Ibu;
 
 import java.sql.*;
 import java.time.LocalDate;

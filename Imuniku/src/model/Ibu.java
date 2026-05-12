@@ -1,4 +1,4 @@
-package model;
+package Imuniku.src.model;
 
 import java.time.LocalDate;
 import java.util.ArrayList;

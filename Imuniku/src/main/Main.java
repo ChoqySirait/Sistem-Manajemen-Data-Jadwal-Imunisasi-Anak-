@@ -1,10 +1,10 @@
 package Imuniku.src.main;
 
-import dao.*;
-import driver.DatabaseConnection;
-import model.*;
-import service.*;
-import util.InputHelper;
+import Imuniku.src.dao.*;
+import Imuniku.src.driver.DatabaseConnection;
+import Imuniku.src.model.*;
+import Imuniku.src.service.*;
+import Imuniku.src.util.InputHelper;
 
 import java.time.LocalDate;
 import java.util.List;
