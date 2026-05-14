@@ -12,7 +12,6 @@ import java.util.List;
 /**
  * RiwayatDAO - Data Access Object untuk RiwayatImunisasi
  * Menangani semua operasi database untuk entity RiwayatImunisasi.
- *
  * Konsep PBO: Inheritance (extends BaseDAO)
  * Konsep JDBC: PreparedStatement, ResultSet
  * Konsep JCF: List
@@ -234,6 +233,6 @@ public class RiwayatDAO extends BaseDAO<RiwayatImunisasi> {
                 + e.getMessage()
             );
         }
-        return hasil;
+        return
     }
 }
